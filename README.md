@@ -99,11 +99,6 @@ MIT License - Free to use and modify
 
 If you find this useful, please star the repository!
 
----
-
-## 🤝 Contributing
-
-Pull requests welcome! Open an issue for major changes.
 
 ---
 

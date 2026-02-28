@@ -25,7 +25,7 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/muscat-downloader.git
+https://github.com/7m7n/Muscat-Downloader.git
 cd muscat-downloader
 ```
 
